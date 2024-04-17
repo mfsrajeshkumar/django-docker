@@ -1,0 +1,19 @@
+1. docker ps # To list out all the available conatiners
+2. docker stop container_id To stop a container
+3. docker rm container_id # Delete a container
+
+docker exec -it container_id /bin/bash  
+
+exit;
+
+docker images
+
+docker  rmi image_id  # delete an image
+
+
+# docker compose related commands
+
+1. docker compose build
+
+2. docker compose up
+

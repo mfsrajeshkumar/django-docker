@@ -1,0 +1,11 @@
+Ref: https://www.youtube.com/watch?v=PkynrL1aU9o&list=PLOLrQ9Pn6cayGytG1fgUPEsUp3Onol8V7&index=3
+# Dockerizing application
+Ref: https://medium.com/@akshatgadodia/dockerizing-a-django-and-mysql-application-a-step-by-step-guide-d4ba181d3de5
+
+
+How to grant all privileges to root user in MySQL 8.0?
+Ref: https://stackoverflow.com/questions/50177216/how-to-grant-all-privileges-to-root-user-in-mysql-8-0
+
+
+Django can not connect mysql in docker comppose
+https://stackoverflow.com/questions/47979270/django-cannot-connect-mysql-in-docker-compose

@@ -1,0 +1,30 @@
+1. Create a new repository on  GitHub and clone it to your local machine. 
+    
+
+2. Then on local machine run  the following commands in terminal :
+    1. git init 
+    2. git remote add origin git@github.com:mfsrajeshkumar/django-docker.git
+    3. git checkout -b branch_name
+
+    4. git add .
+    5. git commit -m "message about what you have done in this commit related code in short"
+    6. git push origin branch_name 
+
+    7. git checkout branch_name
+    8. git branch_name
+    9. git status
+    10. git diff file_name
+
+    11. git merge branch_name (_from_which_you_want_to_merge_in_current_branch_)
+
+    Ref: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Git-stash-pop#:~:text=The%20git%20stash%20pop%20command%20lets%20a%20developer%20move%20their,popped%20stash%20upon%20command%20completion.&text=However%2C%20you%20must%20first%20add,you%20how%20to%20do%20next.
+
+    12. git stash
+    13. git stash list 
+    14. git pop
+    15. git stash apply
+    16. git stash pop $stash@{number}
+    --> git stash pop stash@{0} 
+
+    17. git reset --hard HEAD
+
